@@ -1,0 +1,22 @@
+{
+  "name": "ai-registry-client-usage",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Usage example for @x12i/ai-registry-client: read a registry dataset through an injected http fixture.",
+  "type": "module",
+  "engines": {
+    "node": ">=24"
+  },
+  "scripts": {
+    "start": "node src/index.mjs",
+    "check": "node --check src/index.mjs"
+  },
+  "dependencies": {
+    "@x12i/ai-registry-client": "0.2.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/x12i-sdk/ai-registry-client.git"
+  },
+  "homepage": "https://www.npmjs.com/package/@x12i/ai-registry-client"
+}

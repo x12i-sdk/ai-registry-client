@@ -1,0 +1,21 @@
+{
+  "schemaVersion": 1,
+  "package": "@x12i/ai-registry-client",
+  "packageVersion": "0.2.0",
+  "npmUrl": "https://www.npmjs.com/package/@x12i/ai-registry-client",
+  "usageRepository": "https://github.com/x12i-sdk/ai-registry-client",
+  "sourceRepository": "https://github.com/x12i/ai-profiles",
+  "sourceCommit": "8efd4dc11dfaacab2ceef9f030a4a3fa7da00800",
+  "sourcePackageDirectory": "packages/ai-registry-client",
+  "example": {
+    "title": "Read a registry dataset through an injected HTTP fixture",
+    "entrypoint": "src/index.mjs",
+    "command": "npm start",
+    "requiresCredentials": false,
+    "validation": "passed",
+    "validatedAt": "2026-10-24T13:51:33.910322+00:00",
+    "isolatedInstallation": true,
+    "sourceSha256": "18eb6fcf9444bbcd1e98ce024b0391b75cbdac1524e6451fc3b5964f1cbec6d8",
+    "manifestSha256": "4b858eee47975abd1563ce5be709f8f4452a4c6da38dad417e65efc0931e81d2"
+  }
+}
